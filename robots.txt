@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-e6oko5.hokibet77gel.cfd/sitemap.xml
